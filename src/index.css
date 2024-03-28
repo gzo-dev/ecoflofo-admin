@@ -1,0 +1,18 @@
+/* Thanh công cụ */
+.quill .ql-toolbar {
+  position: sticky;
+  top: 56px;
+  background-color: #fff;
+  z-index: 2;
+}
+
+.cus-inp-txt {
+  border: none !important;
+  border-bottom: 1px solid rgb(124, 124, 124) !important;
+  border-radius: 0 !important
+}
+
+.cus-inp-txt:focus {
+  border: none !important;
+  border-bottom: 1px solid #e5e5e5 !important;
+}
